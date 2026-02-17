@@ -1,3 +1,8 @@
+// Next 3 lines for Instana
+require('@instana/collector')();
+const express = require('express');
+const app = express();
+
 var express = require('express'),
     async = require('async'),
     { Pool } = require('pg'),
