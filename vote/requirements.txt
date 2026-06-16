@@ -1,4 +1,3 @@
 Flask
 Redis
 gunicorn
-instana==3.4.2
