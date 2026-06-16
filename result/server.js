@@ -1,5 +1,5 @@
 // Next line for Instana
-require('@instana/collector')();
+// require('@instana/collector')();
 
 var express = require('express'),
     async = require('async'),
